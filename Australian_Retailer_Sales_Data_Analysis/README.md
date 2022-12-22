@@ -15,7 +15,7 @@ Some of the same calculations together with complementary ones and visuals were 
 Each query in the <b><i>'Australia_sales_main_queries.sql'</b></i> file has a number which corellates with a number represented in the <b><i>'Output_of_queries_1_to_12.xlsx'</b></i> file.
 
 For the convenience of examining, Tableau visual part is provided in <b><i>.twbx, .pdf and web-shortcut</b></i> (<b><i>'Tableau_viz'</b></i> folder).\
-The same viz is also reachable through [Tableau Public cloud](https://public.tableau.com/app/profile/artem5389/viz/Retail_Sales_Data_Analysis/Story1?publish=yes>).</p><br>
+The same viz is also reachable through [the Tableau Public cloud](https://public.tableau.com/app/profile/artem5389/viz/Retail_Sales_Data_Analysis/Story1?publish=yes>).</p><br>
 
 <h2>Sources</h2>
 <p>There are 4 CSV-files in a raw data:
