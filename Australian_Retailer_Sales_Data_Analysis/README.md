@@ -21,8 +21,9 @@ Each query in the <b><i>'Australia_sales_main_queries.sql'</b></i> file has a nu
 
 ><i>Given that Tableau Public does not allow to connect directly to a database, the preprocessed raw data for Tableau importing was exported through SQL query from database to CSV ('#13_Australia_retail_data.csv' file in the 'Queries_output' folder).</i>
 
-<p>For the convenience of examining, Tableau visual part is provided in <b><i>.twbx, .pdf and web-shortcut</b></i> (<b><i>'Tableau_viz'</b></i> folder).<br>
-The same viz is also reachable through [the Tableau Public cloud](https://public.tableau.com/app/profile/artem5389/viz/Retail_Sales_Data_Analysis/Story1?publish=yes>).</p></ul>
+For the convenience of examining, Tableau visual part is provided in <b><i>.twbx, .pdf and web-shortcut</b></i> (<b><i>'Tableau_viz'</b></i> folder).<br>
+The same viz is also reachable through [the Tableau Public cloud](https://public.tableau.com/app/profile/artem5389/viz/Retail_Sales_Data_Analysis/Story1?publish=yes>).
+</ul>
 
 <h2>Sources</h2>
 <p>There are 4 CSV-files in a raw data:
