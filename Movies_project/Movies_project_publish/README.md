@@ -13,7 +13,8 @@ The data used for this project was collected from the few sources:<br>
 <li>Official <a href="https://www.imdb.com/interfaces/">IMDb database</a>.</li>
 </ul></p>
 
-The goal of the project was to show the size of the industry, detaled by genres through decades, and also show leading movies and key persons of the undustry with their achievements.
+The goal of the project was to show the size of the industry, detaled by genres through decades, and also show leading movies and key persons of the undustry with their achievements.<br>
+The data contains movies released between 1970 and 2023, but given that metrics will be aggregated by decades, movies released after 2019 are excluded from the processed data.
 
 
 <h2>Technologies</h2>
