@@ -22,7 +22,7 @@ The goal of the project was to show the popularity of Olympic Games between coun
 The notebook contains various comments.
 </ul>
 
-For the convenience of examining, the notebook is provided in <b><i>.ipynb</b></i>, <b><i>.pdf</b></i> and <b><i>.html</b></i> (main folder).<br>
+For the convenience of examining, the notebook is provided in <b><i>.ipynb</b></i> and <b><i>.pdf</b></i> (main folder).<br>
 
 
 
