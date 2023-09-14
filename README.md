@@ -1,4 +1,4 @@
-<h1>Pet-project</h1>
+<h1>Pet-projects</h1>
 
 
 <h2>Общая информация</h2>
