@@ -1,0 +1,85 @@
+https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset
+
+
+
+https://www.kaggle.com/datasets/ashirwadsangwan/imdb-dataset
+=
+https://www.imdb.com/interfaces/
+	
+
+
+
+
+---------
+
+Источник по сборам:
+https://www.boxofficemojo.com/year/world/2022/
+
+Источник по бюджетам
+https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset?select=movies_metadata.csv
+
+Источник по фильмам:
+https://www.imdb.com/interfaces/
+
+-----
+
+Скрап годовых сборов по годам
+В результате получить фильм (оригинал тайтл), год, сборы
+
+Затем смэпить с тем что есть в данных по фильмам.
+
+_____
+
+Далее:
+
+I. Виз 1 - Индустрия
+	Сборы
+1) Сборы всего и по декадам
+2) Связь времени года релиза и сборов по декадам
+	Зависимость сборов от жанра или рейтинга*
+3) Прогрессия дохода по декадам по жанрам (мб барплот по декадам)
+4) Прогрессия дохода по возрастному рейтингу? (По декадам)*
+	Сантименты зрителей
+5) Связь рейтинга и возврастного ценза по декадам (боксплот)*
+6) Самые популярные жанры по рейтингу IMDB, кол-ву отзывов, сборам (по декадам)
+
+
+Виз 2 - Фильмы
+	Внимание зрителей
+1) Фильмы с наибольшим количеством голосов
+2) Фильмы с самыми большими сборами и прибылью
+3) Корреляция бюджет - прибыль - кол-во голосов - рейтинг (скаттер)
+4) Самая успешная студия*
+
+
+Виз 3 - Люди
+Кто больше снял, спродюсировал, сыграл
+Самый кассовый актер, продюсер, режиссер
+Самый высокооцениваемый актер, продюсер, режиссер*
+
+
+
+-----
+
+
+Столбы итоговой таблицы 1 "фильмы" и таблицы 0 "Индустрия":
+
+imdb_id, Тайтл, год, месяц выпуска, компания выпуск, жанр, рейтинг IMDB, кол-во отзывов IMDB, бюджет, сборы (три вида)
+
+
+Столбы итоговой таблицы 2 "Люди":
+
+Человек, годы жизни, кол-во фильмов в которых снялся, сумма мировой выручки его фильмов
+
+
+
+
+доп.идеи
+https://www.stat.cmu.edu/capstoneresearch/315files_f22/team24.html
+
+
+
+FALSE,,0,"[{""id"": 27, ""name"": ""Horror""}, {""id"": 35, ""name"": ""Comedy""}, {""id"": 18, ""name"": ""Drama""}, {""id"": 14, ""name"": ""Fantasy""}]",,55613,tt0103926,en,Careful,"In the remote Alpine village of Tolzbad at the turn of the century, people talk quietly and restrain their movements lest avalanches come and kill them. This atmosphere lends itself to repressed emotions - shown through the parallel stories of butler student Johann lusting after his mother (an old flame of the mysterious Count Knotkers) and Klara's attraction to her father (who lusts after his other daughter), leading to duels and suicidal plunges galore. All this is shot in the style of an early German sound film, complete with intertitles, deliberately crackly soundtrack and 'hand-tinted' colour effects.",0.160571,/lQL7oJqTZdvjj9SE9prcgmIeYxo.jpg,"[{""name"": ""the Canadian Council"", ""id"": 6697}, {""name"": ""The Canada Manitoba Cultural Industries Development Office (CIDO)"", ""id"": 6698}, {""name"": ""The Manitoba Arts Council"", ""id"": 6700}]","[{""iso_3166_1"": ""CA"", ""name"": ""Canada""}]",30/09/1992,0,100,"[{""iso_639_1"": ""de"", ""name"": ""Deutsch""}, {""iso_639_1"": ""en"", ""name"": ""English""}]",Released,,Careful,FALSE,7.8,4
+
+
+FALSE,,0,"[]",,215107,tt0105737,en,Vermont Is for Lovers,Vermont is for Lovers is an independently produced docudrama released in 1992, starring George Thrush and Marya Cohn and shot on location Tunbridge, Vermont. The film concerns a couple visiting Vermont in order to be married, and interviewing local residents on the subject of marriage. Largely improvised and using non-professional actors, the film was shown at various film festivals including the Melbourne International Film Festival and the Hawaii International Film Festival. The movie was not terribly well received by the national press, with the New York Times calling it, vaguely amiable. While the Washington Post review commented that the film was an 'all-too-easy target for ridicule', it also mentioned one of the film's high points 'In one scene, a typically droll Vermont resident (playing himself) sums up his state's fabled coolness to strangers by suggesting that a sign be placed at the state line, reading Welcome to Vermont. Now Leave,0.75,,[],[],,0,88,[],Released,,Vermont Is for Lovers,FALSE,0,0
